@@ -11,4 +11,6 @@
  * @link      http://www.godo.co.kr
  */
 
+echo '======================';
 echo phpinfo();
+
