@@ -10,3 +10,5 @@
  * @copyright Copyright (c) 2015 GodoSoft.
  * @link      http://www.godo.co.kr
  */
+
+echo phpinfo();
